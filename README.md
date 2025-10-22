@@ -173,6 +173,7 @@ git remote add origin https://github.com/你的用户名/MyFirstApp.git
 git push -u origin main
 实验结果
 成功运行截图
+<img width="254" height="450" alt="61af40d592043ba635bc4d488b436a95" src="https://github.com/user-attachments/assets/3caba280-00eb-40c1-8dc2-bedb759aba56" />
 
 
 应用运行效果：
@@ -250,8 +251,6 @@ Git官方文档
 GitHub Guides
 
 附录
-项目地址
-GitHub仓库：https://github.com/你的用户名/MyFirstApp
 
 .gitignore文件内容
 text
