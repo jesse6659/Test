@@ -70,23 +70,7 @@ java
 包名：com.example.myfirstapp
 语言：Java
 最低SDK：API 21 (Android 5.0)
-项目结构说明
 
-text
-MyFirstApp/
-├── app/
-│   ├── src/main/
-│   │   ├── java/com/example/myfirstapp/
-│   │   │   └── MainActivity.java
-│   │   ├── res/
-│   │   │   ├── layout/
-│   │   │   │   └── activity_main.xml
-│   │   │   └── values/
-│   │   │       └── strings.xml
-│   │   └── AndroidManifest.xml
-│   └── build.gradle
-├── gradle/
-└── build.gradle
 步骤3：理解项目文件
 MainActivity.java
 
@@ -169,10 +153,11 @@ git init
 git add .
 git commit -m "初始提交：完成实验1 - 第一个Android应用"
 git branch -M main
-git remote add origin https://github.com/你的用户名/MyFirstApp.git
+git remote add origin https://github.com/jesse6659/test1
 git push -u origin main
 实验结果
 成功运行截图
+
 <img width="254" height="450" alt="61af40d592043ba635bc4d488b436a95" src="https://github.com/user-attachments/assets/3caba280-00eb-40c1-8dc2-bedb759aba56" />
 
 
